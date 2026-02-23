@@ -1,5 +1,11 @@
 # Uthana Maya plugin
 
+<img height="48" alt="image" src="https://github.com/user-attachments/assets/cc4391c2-fa9c-4ad3-95d4-292b512d9007" /> <img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/5d0c7249-a40e-4c64-ad13-bf03edff7382" />
+<img width="48" height="48" alt="maya-logo" src="https://github.com/user-attachments/assets/42c9fd3a-aab2-43cf-afbf-41a11fff8684" />
+
+
+---
+
 Use Uthana's foundation models directly in Maya to generate, preview, and apply lifelike human motion without leaving your animation workflow.
 
 Latest release: https://github.com/Uthana/uthana-maya-plugin/releases/latest (v1.0.0)
