@@ -10,6 +10,14 @@ Use Uthana's foundation models directly in Maya to generate, preview, and apply 
 
 Latest release: https://github.com/Uthana/uthana-maya-plugin/releases/latest (v1.0.0)
 
+## Maintenance status
+
+This plugin is maintained on request. v1.0.0 keeps working, but it is not receiving new features: text to motion uses the original model, video to motion uses the API's default model, and there is no model picker.
+
+For the latest Uthana models, generate in the [Uthana web app](https://uthana.com/app) or through the [Uthana MCP](https://uthana.com/mcp), download the FBX and import it into Maya. The [Blender plugin](https://github.com/Uthana/uthana-blender-plugin) is actively maintained.
+
+Using Maya in production and need something added or fixed? Open an issue in this repository or email support (at) uthana.com.
+
 ## Features
 
 - **Text to motion**: Generate motion from a natural-language prompt
